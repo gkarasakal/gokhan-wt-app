@@ -1,0 +1,11 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  reconnect: false
+  database: todo_app
+  pool: 5
+  username: root
+  password: RLtkCxhNJJjQMlL6fsM1fLZUyiptKcMlM3X4
+  socket: /tmp/mysql.sock
+  host: gokhan-wt-db.cluster-cgwbcm3edtug.eu-west-1.rds.amazonaws.com
+  port: 3306
